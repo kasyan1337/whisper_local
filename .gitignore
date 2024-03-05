@@ -1,9 +1,9 @@
-*.vtt
-*.srt
-*.tsv
-*.json
-*.wav
-*.txt
+recording.srt
+recording.srt
+recording.tsv
+recording.json
+recording.wav
+recording.txt
 
 *.env
 
