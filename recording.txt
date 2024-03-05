@@ -1,2 +1,0 @@
-Now I used only the English version, specify the current directory, have the output directory,
-and I'm going to stop.
