@@ -1,0 +1,8 @@
+1
+00:00:00,000 --> 00:00:05,000
+This modification ensures that you always see the transcription results if available,
+
+2
+00:00:05,000 --> 00:00:12,400
+even if a warning is not critical or is reported, and STD error.
+
